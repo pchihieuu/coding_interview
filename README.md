@@ -1,2 +1,2 @@
 # coding_interview
-🎓 Leetcode solutions i
+🎓 Leetcode solutions
