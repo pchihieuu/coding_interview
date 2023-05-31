@@ -1,2 +1,2 @@
 # coding_interview
-🎓 Leetcode 
+🎓 Leet
